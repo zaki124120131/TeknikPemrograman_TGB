@@ -1,0 +1,17 @@
+# Judul Program
+# Program ini dibuat untuk menampilkan biodata singkat.
+# Dibuat oleh: Zaki Muhammad Siregar
+"""
+Blok komentar multi-baris.
+Program ini hanya akan menampilkan teks ke konsol/terminal.
+"""
+
+# Menampilkan judul biodata
+print("--- BIODATA SAYA ---")
+print("") # Memberikan baris kosong sebagai spasi
+
+# Menampilkan data diri
+print("Nama      : Zaki Muhammad Siregar")
+print("NIM       : 124120131")
+print("Prodi     : Teknik Geofisika")
+print("Angkatan  : 2024")
